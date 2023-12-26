@@ -30,12 +30,12 @@ public class Main {
 
         //Task 3
         System.out.println("TASK 3");
-        int students_1 = 23;
-        int students_2 = 27;
-        int students_3 = 30;
+        int students1 = 23;
+        int students2 = 27;
+        int students3 = 30;
         int sheets = 480;
 
-        int result = sheets / (students_1 + students_2 + students_3);
+        int result = sheets / (students1 + students2 + students3);
 
         System.out.println("На каждого ученика рассчитано " + result + " листов бумаги");
         System.out.println("--------------------------------------------------------");
